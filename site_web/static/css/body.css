@@ -1,0 +1,20 @@
+/* Footer to bottom of page if not enough content */
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    color: rgb(207,212,217) !important;
+}
+article {
+   flex: 1;
+}
+
+/* Couleur des sections */
+.bg-header {
+    background-color: #99A5C5 !important;
+}
+
+.card-title-red,
+.light-red {
+    color: rgb(200,67,73) !important;
+}
