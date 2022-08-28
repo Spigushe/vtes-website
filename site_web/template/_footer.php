@@ -19,9 +19,7 @@
             <a href="https://www.blackchantry.com/" class="text-reset" target="_blank">Black Chantry Productions</a>
             <br>Certaines parties des matériaux utilisés sont la propriété de Black Chantry Productions.
             <br>© <a href="https://www.blackchantry.com/" class="text-reset" target="_blank">Black Chantry Productions</a>.
-            <!--
-
-            -->
+            <br>™ <a href="https://www.paradoxinteractive.com/" class="text-reset" target="_blank">Paradox Interactive AB.</a>
         </p>
     </div>
 </footer>
