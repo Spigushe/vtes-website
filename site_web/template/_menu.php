@@ -14,6 +14,11 @@
                     ?>">Accueil</a>
                 </li>
                 <!-- Tournois mensuels -->
+                <li class="nav-item">
+                    <a href="/rise-of-the-fallen" class="nav-link<?php
+                    print(($_SERVER['REQUEST_URI'] == '/rise-of-the-fallen') ? " active" : "");
+                    ?>">Rise of the Fallen</a>
+                </li>
             </ul>
         </div>
     </div>
