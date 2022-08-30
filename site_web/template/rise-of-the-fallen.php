@@ -34,11 +34,11 @@
 </article>
 <?php separateur(); ?>
 <article class="d-md-flex flex-row justify-content-around">
-    <div class="col-md-4 p-3">
+    <div class="col-md-4 mx-md-3 p-3">
         <img src="./static/img/vampire-faceless-night.jpeg" class="col-12"/>
         <div style="clear:both;"></div>
     </div>
-    <div class="col-md-8 p-3">
+    <div class="col-md-8 mx-md-3 p-3">
         <p>
             📅 Le tournoi se déroulera <strong>dimanche 2 octobre 2022</strong> à partir de 11 heures.
         </p>
