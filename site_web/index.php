@@ -1,6 +1,7 @@
 <?php
 // ROUTE
 $route = ($_SERVER['REQUEST_URI'] == "/") ? "/index" : $_SERVER['REQUEST_URI'];
+$route = preg_split("/\?/",$route)[0];
 $page  = "./template" . $route . ".php";
 
 // CONTROLER
