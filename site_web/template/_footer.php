@@ -26,5 +26,22 @@
 
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js" integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK" crossorigin="anonymous"></script>
+<script>
+window.onscroll = function() { scrollFunction() };
+
+function scrollFunction() {
+    if (
+        (document.body.scrollTop > 80)
+        || (document.documentElement.scrollTop > 80)
+    )
+    {
+        document.getElementById("vtes").classList.remove("col-md-2");
+        document.getElementById("vtes").classList.add("col-md-1");
+    } else {
+        document.getElementById("vtes").classList.remove("col-md-1");
+        document.getElementById("vtes").classList.add("col-md-2");
+    }
+}
+</script>
 </body>
 </html>
