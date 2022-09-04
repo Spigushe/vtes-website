@@ -1,4 +1,4 @@
-<article class="col-8 ms-auto me-auto py-4">
+<article class="col-8 ms-auto me-auto pt-4">
     <div class="col-12">
         <h2 class="text-center">Rise of the Fallen</h2>
         <p class="text-center mt-4">
@@ -11,7 +11,7 @@
     </div>
 </article>
 <?php separateur(); ?>
-<article class="col-8 ms-auto me-auto py-4">
+<article class="col-8 ms-auto me-auto pb-4">
     <div class="col-12">
         <div class="d-md-flex flex-row justify-content-around">
             <div class="col-md-3 text-center">
