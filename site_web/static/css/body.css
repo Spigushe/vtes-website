@@ -19,3 +19,9 @@ article {
 .light-red {
     color: rgb(200,67,73) !important;
 }
+
+.krcg-card {
+    font-style: italic;
+    text-decoration: none;
+    cursor: pointer;
+}
