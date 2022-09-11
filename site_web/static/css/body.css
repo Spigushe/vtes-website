@@ -25,3 +25,27 @@ article {
     text-decoration: none;
     cursor: pointer;
 }
+
+.vdb-button {
+    background-color:#d0d0e8;
+    border-radius: 0.3em;
+    border: 1px solid;
+    border-color: #d1d1d1;
+    width: fit-content;
+    text-decoration: none;
+    margin: 1em 1em 1em 0;
+    padding: 0.5em;
+    color: inherit;
+}
+
+.vdb-button img {
+    max-height: 1em;
+    vertical-align: middle;
+}
+
+article img {
+    margin: 0 auto;
+    box-sizing: border-box;
+    object-fit: contain;
+    max-width: 300px;
+}

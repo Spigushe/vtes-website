@@ -8,4 +8,13 @@ function separateur($anchor = "", $color = "dark") {
 <?php
 }
 
+function vdb_link($link="#") {
+    ?>
+    <a class="vdb-button" id="vdb-button" <?php if ($link != "#") print("target=\"_blank\" href=\"$link\""); ?> rel="external">
+        <img src="https://vdb.im/favicon.ico">
+        VDB
+    </a>
+<?php
+}
+
 ?>
