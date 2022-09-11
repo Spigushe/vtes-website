@@ -13,12 +13,13 @@
                     print(($_SERVER['REQUEST_URI'] == '/') ? " active" : "");
                     ?>">Accueil</a>
                 </li>
-                <!-- Stratégie élémentaire -->
+                <!-- Stratégie élémentaire
                 <li class="nav-item">
                     <a href="/strategie-elementaire" class="nav-link<?php
                     print(($_SERVER['REQUEST_URI'] == '/strategie-elementaire') ? " active" : "");
                     ?>">Stratégie élémentaire</a>
                 </li>
+                -->
                 <!-- Tournois mensuels -->
                 <li class="nav-item">
                     <a href="/rise-of-the-fallen" class="nav-link<?php
