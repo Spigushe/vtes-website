@@ -4,7 +4,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <h1 class="navbar-brand m-0 col-3 col-md-2" id="vtes"><a href="/" class="text-body fs-2">
-            <img src="./static/img/vampire-v5.png" alt="VtES Nantes" width="825px" class="w-100 px-3" />
+            <img src="/static/img/vampire-v5.png" alt="VtES Nantes" width="825px" class="w-100 px-3" />
         </a></h1>
         <div class="collapse navbar-collapse col-8 text-light" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto me-auto">

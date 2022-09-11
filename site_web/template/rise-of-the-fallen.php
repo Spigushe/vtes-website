@@ -35,7 +35,7 @@
 <?php separateur(); ?>
 <article class="d-md-flex flex-row justify-content-around">
     <div class="col-md-4 p-3">
-        <img src="./static/img/vampire-faceless-night.jpeg" class="w-100 m-md-3"/>
+        <img src="/static/img/vampire-faceless-night.jpeg" class="w-100 m-md-3"/>
         <div style="clear:both;"></div>
     </div>
     <div class="col-md-8 p-3 px-4">
